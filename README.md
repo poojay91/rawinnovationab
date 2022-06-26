@@ -1,2 +1,0 @@
-# rawinnovationab
-QA Assignment
