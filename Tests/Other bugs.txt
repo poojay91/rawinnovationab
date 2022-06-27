@@ -1,0 +1,15 @@
+1) 
+Title : A pop up window with a message i.e "Please make a deposit to activate your account" is always opening when I click on any feature and also not given close option at title bar.
+Effect: if a user wants to sign up for the first time to explore the website how it works. but if the user is getting the pop-up window every time then the user
+may be irritated and can leave the website.
+Suggestion: I feel that if a user wants to play a game if the user selects any game to play at that time the user should get a pop up to activate the account. 
+But not every time when he selects any other features like customer service.
+
+
+2)
+Title : In contact us page.there is mismatch of email ids.
+Contact our support mail id is given "se.support@videoslots.com"
+But in contact information its given "see.support@videoslots.com"
+Effect: Users will not be able to send mail for any inquiry or issues.
+Suggestion: Both the email ids should be the same.otherwise user won't be able to send mail.
+

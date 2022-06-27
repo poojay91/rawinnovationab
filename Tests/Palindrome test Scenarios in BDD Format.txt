@@ -1,0 +1,45 @@
+Feature: Test Palindrome using various input string.
+
+Scenario 1: Test Palindrome with positive input string
+Given: Working Palindrome program.
+When : Positive input is entered as "Madam"
+Then : Program should return the string is Palindrome.
+
+Scenario 2: Test Palindrome with positive input string with change in case.
+Given : Working Palindrome program.
+When  : positive input string with change in case as "Madam" or "Racecar".
+Then  : Program should return the string is Palindrome.
+
+Scenario 3: Test Palindrome with Special character.
+Given : Working Palindrome program.
+When  : Special character is entered as input.
+Then  : 
+Scenario 4: Test Palindrome with empty string
+Given : Working Palindrome program.
+When  : Empty string is entered as input.
+Then  : Program should return "Please enter the valid string"
+
+Scenario 5: Test Palindrome with space is used in valid string
+Given : Working Palindrome program.
+When  : Spcae is used in valid string as input like "ma am" or "de ed"
+Then  : Program should return "String is not Palindrome"
+
+Scenario 6: Test Palindrome with different version of letters are used as input
+Given : Working Palindrome program.
+When  : different versions of letters are entered in a valid string like "réfer" or "refër".
+Then  : Program should return "String is not Palindrome"
+
+Scenario 7: Test Palindrome with 0 in input
+Given : Working Palindrome program.
+When  : Zero is added in the input like "am0ma"
+Then  : Program should return "String is Palindrome"
+
+Scenario 8: Test Palindrome with numbers
+Given : Working Palindrome program.
+When : Input form palindrome but with numbers like "44044"
+Then : Program should return "String is Palindrome"
+
+Scenario 9: Test Palindrome with special Characters
+Given : Working Palindrome program.
+When : Input form palindrome with special characters like "@@#@@"
+Then : Program should return "String is Palindrome"
